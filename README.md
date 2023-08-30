@@ -14,7 +14,7 @@ Matrícula: Número único de identificação do funcionário.
 2. Salvar e Armazenar
 Após preencher os dados do funcionário, siga as etapas abaixo para salvar e armazenar as informações no banco de dados (XAMPP):
 
-Após preencher os campos necessários, clique no botão "Salvar" ou "Confirmar".
+Após preencher os campos necessários, clique no botão "Salvar".
 O sistema processará os dados inseridos e os enviará para o servidor.
 O servidor, configurado por meio do XAMPP, receberá os dados e executará as ações necessárias para armazená-los no banco de dado
 
