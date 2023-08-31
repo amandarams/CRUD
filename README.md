@@ -1,5 +1,6 @@
 # CRUD
 Cadastro de Funcionários
+
 CRUD de Cadastro de Funcionários
 Este é um guia para entender e utilizar as funcionalidades básicas do CRUD (Criar, Ler, Atualizar, Excluir) de cadastro de funcionários. O sistema permite o registro de informações importantes dos funcionários, como matrícula, nome, carga e salário. As operações de CRUD permitem adicionar, visualizar, atualizar e remover registros de funcionários no banco de dados.
 
@@ -8,7 +9,7 @@ Funcionalidades
 
 Acesse a tela de cadastro de funcionários.
 Preencha os seguintes dados do funcionário:
-Matrícula: Número único de identificação do funcionário, nome, cargo e salário.
+Matrícula, nome, cargo e salário.
 
 ![funcionarios](https://github.com/amandarams/CRUD/assets/124388769/be53a00d-5374-4c1d-8a76-101885921116)
 
