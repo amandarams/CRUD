@@ -2,7 +2,8 @@
 Cadastro de Funcionários
 
 CRUD de Cadastro de Funcionários
-Este é um guia para entender e utilizar as funcionalidades básicas do CRUD (Criar, Ler, Atualizar, Excluir) de cadastro de funcionários. O sistema permite o registro de informações importantes dos funcionários, como matrícula, nome, carga e salário. As operações de CRUD permitem adicionar, visualizar, atualizar e remover registros de funcionários no banco de dados.
+
+As funcionalidades básicas do CRUD (Criar, Ler, Atualizar, Excluir) de cadastro de funcionários. O sistema permite o registro de informações importantes dos funcionários, como matrícula, nome, carga e salário. As operações de CRUD permitem adicionar, visualizar, atualizar e remover registros de funcionários no banco de dados.
 
 Funcionalidades
 1. Para adicionar um novo funcionário ao sistema, siga os passos abaixo:
