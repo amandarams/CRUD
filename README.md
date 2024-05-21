@@ -20,7 +20,7 @@ Após preencher os dados do funcionário, siga as etapas abaixo para salvar e ar
 
 Após preencher os campos necessários, clique no botão "Salvar".
 O sistema processará os dados inseridos e os enviará para o servidor.
-O servidor, configurado por meio do XAMPP, receberá os dados e executará as ações necessárias para armazená-los no banco de dado
+O servidor, configurado por meio do XAMPP, receberá os dados e executará as ações necessárias para armazená-los no banco de dados
 
 ![phpMyAdmin](https://github.com/amandarams/CRUD/assets/124388769/608836a5-219d-497a-9d83-ba04af03e114)
 
